@@ -39,7 +39,7 @@
      id="namedview40"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="28.09567"
+     inkscape:cx="14.81442"
      inkscape:cy="26.15039"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -1816,22 +1816,4 @@
        d="m 24.959859,2.9732121 h 3.534133 c 13.90774,0 16.80439,11.2468649 16.80439,17.2820839 v 7.123176 c 0,5.959564 -3.526074,16.975521 -15.969343,17.196145 -2.330536,-8.128903 -2.392601,-10.483724 -1.258987,-19.248843 -4.417474,0 -8.143564,9e-5 -8.143564,9e-5 0,-3.728107 -0.265234,-11.273659 5.033371,-22.3526519 z"
        style="opacity:0.94499966;fill:url(#linearGradient1147-3);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97692303" />
   </g>
-  <circle
-     style="fill:#ffffff;fill-opacity:0.85204103"
-     cx="16.436977"
-     cy="5.9528508"
-     r="1.781426"
-     id="circle22-0" />
-  <circle
-     style="fill:#ffffff;fill-opacity:0.85204103"
-     cx="11.74026"
-     cy="7.7412109"
-     r="1.781426"
-     id="circle24-6" />
-  <circle
-     style="fill:#ffffff;fill-opacity:0.85204103"
-     cx="8.1043167"
-     cy="11.295821"
-     r="1.781426"
-     id="circle26-1" />
 </svg>
