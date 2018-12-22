@@ -12,8 +12,8 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="zz (21).svg"
-   inkscape:version="0.91 r13725">
+   sodipodi:docname="korganizer.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata42">
     <rdf:RDF>
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1050"
+     inkscape:window-width="3000"
+     inkscape:window-height="1944"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="4.9166665"
-     inkscape:cx="-32.259933"
-     inkscape:cy="18.077564"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-10.442777"
+     inkscape:cy="40.218983"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="56"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg38" />
   <defs
@@ -1735,7 +1735,7 @@
      inkscape:connector-curvature="0"
      id="path4526"
      d="m 19.365114,2.7423187 8.49507,0 c 13.90774,0 16.80439,11.2468653 16.80439,17.2820843 l 0,7.123176 c 0,5.959564 -2.70417,17.282082 -17.83653,17.282082 l -6.9301,0 c -11.5625102,0 -17.1459402,-7.707808 -17.1459402,-17.282082 l 0,-7.123176 c 0,-9.574274 5.47018,-17.2820843 16.6131102,-17.2820843 z"
-     style="opacity:1;fill:#8fa9d6;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
+     style="opacity:1;fill:#0cd845;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;stroke:#6cb6f5;stroke-width:0.01367012;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
